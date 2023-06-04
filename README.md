@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+- Doing the[ Exercism #12in23 Challenge](https://exercism.org/profiles/sahildshah1) to explore different programming languages
+
 <!--
 **sahildshah1/sahildshah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
