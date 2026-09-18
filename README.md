@@ -1,22 +1,7 @@
-### Hi 👋 I'm Sahil — an engineer focused on building AI/ML systems, based in the Philadelphia area.
+### Hi 👋, I’m Sahil – an engineer focused on building AI systems, based in the Philadelphia area.
 
-I have a background in biostatistics research and applied math. During a PhD program at Northwestern University, I studied broadly across math and statistics before focusing my research on statistical methods for analyzing genomic data. Working with experimentalists, I developed a computational method to identify gene/disease associations by resampling high-dimensional genomic data. Later, I broadened my statistical modeling skills on projects involving causal inference, supervised machine learning, and LLMs.
+My work has centered on building and evaluating software that uses statistical modeling to guide users with their work.
 
-After defending my PhD, I built experience developing online/offline evaluations for ML systems. I worked at startups that built and ran ML systems to handle work for their customers' marketing and operations teams. To grow my software development skills, I sought out engineering teams where I could contribute to production systems. There, I collaborated with teammates to support customer acquisition by adding online/offline evaluations to our ML systems and establishing their performance. Building on that, I later took on broader AI/ML systems work.
+When I'm not coding, you can find me training for my next half marathon or attending a local film festival.
 
-After moving to Philadelphia, I gained experience owning entire AI/agent systems and building across the UI, API, and database layers. To deepen my engineering skills and learn about emerging AI technologies, I decided to take a sabbatical between jobs. During it, I've been a member of Code for Philly, attended PyCon and Philly tech meetups, and kept up with developments in software built on LLMs and code written with them. At Code for Philly, I've focused on building a chatbot that searches through research papers to answer questions. I'm also writing about things I learn and want to remember, along with links worth sharing. I'm now looking for the right opportunity to enter this space at the industry level — companies that build and run AI systems to do work for their customers, with a culture of trust and community contribution.
-
-<!--
-**sahildshah1/sahildshah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm writing about things I learn and want to remember, projects I've built, and links worth sharing at [sahilds1.github.io](sahilds1.github.io)
