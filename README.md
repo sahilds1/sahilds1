@@ -4,4 +4,4 @@ My work has centered on building and evaluating software that uses statistical m
 
 When I'm not coding, you can find me training for my next half marathon or attending a local film festival.
 
-I'm writing about things I learn and want to remember, projects I've built, and links worth sharing at [sahilds1.github.io](sahilds1.github.io)
+I'm writing about things I learn and want to remember, projects I've built, and links worth sharing at [sahilds1.github.io](https://sahilds1.github.io/)
