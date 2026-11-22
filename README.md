@@ -7,8 +7,8 @@ Most recently, I built the AI research agent for [Balancer](https://github.com/C
 - **Research agent:** [#524](https://github.com/CodeForPhilly/balancer-main/pull/524) tool loop and per-call usage tracking · [#419](https://github.com/CodeForPhilly/balancer-main/pull/419) scoped, citation-first system prompt
 - **Chat interface:** [#364](https://github.com/CodeForPhilly/balancer-main/pull/364) chat that keeps each conversation in the browser session
 - **Evals:** [#499](https://github.com/CodeForPhilly/balancer-main/pull/499) agent decoupled from the endpoint for evals · [#461](https://github.com/CodeForPhilly/balancer-main/pull/461) embedding model preloaded at startup
-- **Access control:** [#412](https://github.com/CodeForPhilly/balancer-main/pull/412) public release with signed-in/anonymous access · [#417](https://github.com/CodeForPhilly/balancer-main/pull/417) protected routes and session cleanup
-- **Contributor support:** [#444](https://github.com/CodeForPhilly/balancer-main/pull/444) PR template · [#216](https://github.com/CodeForPhilly/balancer-main/pull/216) contributing guidelines
+- **Access control:** [#399](https://github.com/CodeForPhilly/balancer-main/pull/399) chatbot opened to anonymous users · [#417](https://github.com/CodeForPhilly/balancer-main/pull/417) protected routes and session cleanup
+- **Contributor support:** [#444](https://github.com/CodeForPhilly/balancer-main/pull/444) PR template · [#466](https://github.com/CodeForPhilly/balancer-main/pull/466) code review on test mocking and clarity
 
 Currently, I'm working on [Balancer](https://github.com/CodeForPhilly/balancer-main) and [Benefit Decision Toolkit](https://github.com/CodeForPhilly/benefit-decision-toolkit), which helps benefits experts build eligibility screeners, at Code for Philly.
 
