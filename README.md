@@ -13,5 +13,3 @@ Most recently, I built the AI research agent for [Balancer](https://github.com/C
 Currently, I'm working on [Balancer](https://github.com/CodeForPhilly/balancer-main) and [Benefit Decision Toolkit](https://github.com/CodeForPhilly/benefit-decision-toolkit), which helps benefits experts build eligibility screeners, at Code for Philly.
 
 Before Code for Philly, I worked on production ML systems at Sync Computing, Shelf Engine, and Civis Analytics, after a PhD in applied math at Northwestern.
-
-I'm open to relocation and remote roles. Reach me on [LinkedIn](https://www.linkedin.com/in/sahilds1/) or at sahildshah1@gmail.com.
